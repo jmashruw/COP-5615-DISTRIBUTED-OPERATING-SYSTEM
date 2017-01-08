@@ -1,0 +1,32 @@
+{
+"under_lying_devices": 
+			[{
+				"name"		  : "temp",
+				"type"		  : "tempsense",
+				"description"     : "sensor",
+				"work"		  : "read",
+				"pin"		  : "ADC",
+				"unit"		  : "centigrade",
+				"reading"	  : "(((data*1.8/4095)*1000) - 500)/10"
+			},
+			
+			{   
+				"name"		 : "tsled",
+				"type"		 : "led",
+				"decription" : "actuator",
+				"work"       : "write",
+				"pin"		 : "28"
+			
+			},
+			
+			{
+				"name"	     : "button",
+				"type"	     : "digital",
+				"description" : "sensor",
+				"work"       : "read",
+				"pin"        : "1"
+			}]
+		
+}
+
+

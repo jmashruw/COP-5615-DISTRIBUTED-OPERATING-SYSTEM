@@ -1,0 +1,29 @@
+/*This parser edits the confguration file in your xinu config folder
+and also edits the prototypes.h in your xinu include folder
+Along with this this parser also generates new higher device driver functions file
+and puts them in your xinu's system folder*/
+
+
+
+
+STEPS FOR USING THIS PARSER:
+
+1) Keep this parser folder in your xinu directory
+2) Make sure this parser folder contains - 
+		a) device_driver_generator.c
+		b) our_device.json
+		c) cJSON.c
+		d) cJSON.h
+3) In the device_driver_generator.c file change the xinu_directory string and make it point to your xinu directory
+4) Save device_driver_generator.c
+5) Go inside this parser folder
+6) Do open in terminal
+7) Run the following command to compile this parser
+	
+   gcc -o test device_driver_generator.c cJSON.c -lm
+
+8) Then run this command
+
+   ./test
+
+
