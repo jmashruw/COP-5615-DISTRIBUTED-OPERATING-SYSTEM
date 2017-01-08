@@ -1,0 +1,130 @@
+ Sending msg 100 to receiver 5. Number of message successfully sent is 1
+ Receiver 5 received Message: 100
+ Sending msg 101 to receiver 7. Number of message successfully sent is 1
+ Sending msg 101 to receiver 8. Number of message successfully sent is 1
+ Sending msg 101 to receiver 9. Number of message successfully sent is 1
+ Receiver 7 received Message: 101
+ Receiver 8 received Message: 101
+ Receiver 9 received Message: 101
+ Sending msg 102 to receiver 13.
+ Sending msg 103 to receiver 13.
+ Sending msg 104 to receiver 13.
+ Sending msg 105 to receiver 13.
+ Number of message successfully sent is 4
+ Sending msg 106 to receiver 14.
+ Sending msg 107 to receiver 14.
+ Sending msg 108 to receiver 14.
+ Sending msg 109 to receiver 14.
+ Number of message successfully sent is 4
+ Sending msg 110 to receiver 15.
+ Sending msg 111 to receiver 15.
+ Sending msg 112 to receiver 15.
+ Sending msg 113 to receiver 15.
+ Number of message successfully sent is 4
+ Receiver 13 received Message: 102
+ Receiver 13 received Message: 103
+ Receiver 13 received Message: 104
+ Receiver 13 received Message: 105
+ Receiver 14 received Message: 106
+ Receiver 14 received Message: 107
+ Receiver 14 received Message: 108
+ Receiver 14 received Message: 109
+ Receiver 15 received Message: 110
+ Receiver 15 received Message: 111
+ Receiver 15 received Message: 112
+ Receiver 15 received Message: 113
+ Sending msg 1 to receiver 19.
+ Sending msg 2 to receiver 19.
+ Sending msg 3 to receiver 19.
+ Sending msg 4 to receiver 19.
+ Sending msg 5 to receiver 19.
+ Sending msg 6 to receiver 19.
+ Sending msg 7 to receiver 19.
+ Sending msg 8 to receiver 19.
+ Number of message successfully sent is 8
+ Sending msg 21 to receiver 19.
+ Sending msg 22 to receiver 19.
+ Sending msg 23 to receiver 19.
+ Number of message successfully sent is 2
+3 ERROR while sending to receiver 19
+ Receiver 19 received Message: 1
+ Receiver 19 received Message: 2
+ Receiver 19 received Message: 3
+ Receiver 19 received Message: 4
+ Receiver 19 received Message: 5
+ Receiver 19 received Message: 6
+ Receiver 19 received Message: 7
+ Receiver 19 received Message: 8
+ Receiver 19 received Message: 21
+ Receiver 19 received Message: 22
+ Sending msg 1 to receiver 23.
+ Sending msg 2 to receiver 23.
+ Sending msg 3 to receiver 23.
+ Sending msg 4 to receiver 23.
+ Sending msg 5 to receiver 23.
+ Sending msg 6 to receiver 23.
+ Sending msg 7 to receiver 23.
+ Sending msg 8 to receiver 23.
+ Sending msg 9 to receiver 23.
+ Sending msg 10 to receiver 23.
+ Number of message successfully sent is 10
+ Sending msg 21 to receiver 24.
+ Sending msg 22 to receiver 24.
+ Sending msg 23 to receiver 24.
+ Sending msg 24 to receiver 24.
+ Sending msg 25 to receiver 24.
+ Sending msg 26 to receiver 24.
+ Sending msg 27 to receiver 24.
+ Sending msg 28 to receiver 24.
+ Sending msg 29 to receiver 24.
+ Sending msg 30 to receiver 24.
+ Number of message successfully sent is 10
+ Sending msg 41 to receiver 25.
+ Sending msg 42 to receiver 25.
+ Sending msg 43 to receiver 25.
+ Sending msg 44 to receiver 25.
+ Sending msg 45 to receiver 25.
+ Sending msg 46 to receiver 25.
+ Sending msg 47 to receiver 25.
+ Sending msg 48 to receiver 25.
+ Sending msg 49 to receiver 25.
+ Sending msg 50 to receiver 25.
+ Number of message successfully sent is 10
+ Receiver 23 received Message: 1
+ Receiver 23 received Message: 2
+ Receiver 23 received Message: 3
+ Receiver 23 received Message: 4
+ Receiver 23 received Message: 5
+ Receiver 23 received Message: 6
+ Receiver 23 received Message: 7
+ Receiver 23 received Message: 8
+ Receiver 23 received Message: 9
+ Receiver 23 received Message: 10
+ Receiver 24 received Message: 21
+ Receiver 24 received Message: 22
+ Receiver 24 received Message: 23
+ Receiver 24 received Message: 24
+ Receiver 24 received Message: 25
+ Receiver 24 received Message: 26
+ Receiver 24 received Message: 27
+ Receiver 24 received Message: 28
+ Receiver 24 received Message: 29
+ Receiver 24 received Message: 30
+ Receiver 25 received Message: 41
+ Receiver 25 received Message: 42
+ Receiver 25 received Message: 43
+ Receiver 25 received Message: 44
+ Receiver 25 received Message: 45
+ Receiver 25 received Message: 46
+ Receiver 25 received Message: 47
+ Receiver 25 received Message: 48
+ Receiver 25 received Message: 49
+ Receiver 25 received Message: 50
+ Receiver 25 received Message: 43
+ Receiver 25 received Message: 44
+ Receiver 25 received Message: 45
+ Receiver 25 received Message: 46
+ Receiver 25 received Message: 47
+ Receiver 25 received Message: 48
+ Receiver 25 received Message: 49
+ Receiver 25 received Message: 50
