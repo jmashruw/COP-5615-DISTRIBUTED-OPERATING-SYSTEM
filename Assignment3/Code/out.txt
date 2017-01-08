@@ -1,0 +1,20 @@
+Process 6 publishes message 400 to topic 512
+Process 7 subscribes to topic 512 with handler foo
+Process 8 subscribes to topic 256 with handler pick
+Process 9 subscribes to topic 0 with handler bar
+Process 10 subscribes to topic 1 with handler drop
+Function foo is called with topic16 512 and data 100
+Process 5 publishes message 100 to topic 512
+Process 6 publishes message 500 to topic 1
+Function foo is called with topic16 512 and data 400
+Process 5 publishes message 200 to topic 256
+Process 6 publishes message 600 to topic 0
+Function drop is called with topic16 1 and data 500
+Process 5 publishes message 300 to topic 0
+Function pick is called with topic16 256 and data 200
+Function foo is called with topic16 0 and data 600
+Function pick is called with topic16 0 and data 600
+Function bar is called with topic16 0 and data 600
+Function foo is called with topic16 0 and data 300
+Function pick is called with topic16 0 and data 300
+Function bar is called with topic16 0 and data 300
